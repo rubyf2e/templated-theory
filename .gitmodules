@@ -10,3 +10,6 @@
 [submodule "wordpress"]
 	path = wordpress
 	url = https://github.com/joy511437/templated-theory-wordpress.git
+[submodule "html"]
+	path = html
+	url = https://github.com/joy511437/templated-theory-html.git
