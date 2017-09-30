@@ -1,0 +1,12 @@
+[submodule "templated-theory-vue"]
+	path = templated-theory-vue
+	url = https://github.com/joy511437/templated-theory-vue.git
+[submodule "f2e/templated-theory"]
+	path = f2e/templated-theory
+	url = https://github.com/joy511437/templated-theory-vue.git
+[submodule "f2e/wordpress"]
+	path = f2e/wordpress
+	url = https://github.com/joy511437/templated-theory-wordpress.git
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/joy511437/templated-theory-wordpress.git
